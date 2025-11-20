@@ -40,14 +40,14 @@ export default function HomePage() {
                 color: "white",
               }}
             >
-              参加 MBTI 性格测试 
+              官方版MBTI专业测试 
             </Highlight>
           </Heading>
           <Text
             fontSize="xl"
             align="center"
           >
-            通过这个性格测试更好地了解自己
+            10万+人测过的超准版本，明星同款性格分析！
           </Text>
           <Link href="/test">
             <Button
