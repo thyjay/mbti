@@ -4,9 +4,9 @@
 
 该项目实现了 MBTI（Myers-Briggs Type Indicator）性格测试，通过一系列问题，帮助用户了解自己的个性特征，并确定他们的 MBTI 类型。MBTI 将个性分为四个维度，最终组合出 16 种性格类型，用户可根据测试结果了解更多关于自己的信息。
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/23517e74-f46e-42e3-8a82-0da688ff1aa9/deploy-status)](https://mbti.yaavi.me/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23517e74-f46e-42e3-8a82-0da688ff1aa9/deploy-status)](https://mbitred.netlify.app/))
 
-部署在 Netlify，访问地址：[https://mbti.yaavi.me](https://mbti.yaavi.me)
+部署在 Netlify，访问地址：(https://mbitred.netlify.app/)](https://mbitred.netlify.app/))
 
 ## 功能特性
 
